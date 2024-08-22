@@ -35,7 +35,7 @@ declare module 'swapsicle-contract-addresses' {
   export const FACTORY_ADDRESS: Record<number, string>;
   export const ROUTER_ADDRESS: Record<number, string>;
   export const ICECREAMVAN_V2_ADDRESS: Record<number, string>;
-  export const ICECREAMVAN_V2_ADDRESS_OLD: Record<number, string>;
+  export const ICECREAMVAN_V2_OLD_ADDRESS: Record<number, string>;
   export const COMMUNITY_VAULT_ADDRESS: Record<number, string>;
   export const ZOMBIEVAN_ADDRESS: Record<number, string>;
   export const BENTOBOX_ADDRESS: Record<number, string>;
@@ -47,8 +47,8 @@ declare module 'swapsicle-contract-addresses' {
   export const ICE_ADDRESS: Record<number, string>;
   export const ICECREAMZOMBIES_NFT_ADDRESS: Record<number, string>;
   export const STLOSTOKEN_ADDRESS: Record<number, string>;
-  export const NATIVE_PAYMENT_TOKEN: Record<number, string>;
-  export const BRIDGE_V2_CONTRACT: Record<number, string>;
+  export const NATIVE_PAYMENT_TOKEN_ADDRESS: Record<number, string>;
+  export const BRIDGE_V2_ADDRESS: Record<number, string>;
   export const V3_POOL_INIT_CODE_HASH: Record<number, string>;
   export const V3_ALGEBRA_FACTORY_ADDRESS: Record<number, string>;
   export const V3_ALGEBRA_POOL_DEPLOYER_ADDRESS: Record<number, string>;
@@ -56,7 +56,7 @@ declare module 'swapsicle-contract-addresses' {
   export const V3_SWAP_ROUTER_ADDRESS: Record<number, string>;
   export const V3_NONFUNGIBLE_POSITION_MANAGER_ADDRESS: Record<number, string>;
   export const V3_MULTICALL_ADDRESS: Record<number, string>;
-  export const V3_OLD_FARMING_CENTER_ADDRESS: Record<number, string>;
+  export const V3_FARMING_CENTER_OLD_ADDRESS: Record<number, string>;
   export const V3_FARMING_CENTER_ADDRESS: Record<number, string>;
   export const V3_ETERNAL_FARMING_ADDRESS: Record<number, string>;
 }
