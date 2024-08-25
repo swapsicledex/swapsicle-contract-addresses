@@ -249,10 +249,10 @@ const ICE_ADDRESS = {
 };
 
 const ICECREAMZOMBIES_NFT_ADDRESS = {
-  [ChainId.TELOS]: ["0x581b6d860aa138c46dcaf6d5c709cd070cd77eb8"],
-  [ChainId.TELOS_TESTNET]: ["0x1511694289ace9faa05f8a0c3c84f89c6b38f717"], // Test Utility NFTs
-  [ChainId.MANTLE]: ["0x21b276de139ce8c75a7b4f750328dbf356195b49"],
-  [ChainId.MANTLE_TESTNET]: ["0x081d8db959b655a41948dfd623b7174c26f7a807"], // Test Utility NFTs
+  [ChainId.TELOS]: "0x581b6d860aa138c46dcaf6d5c709cd070cd77eb8",
+  [ChainId.TELOS_TESTNET]: "0x1511694289ace9faa05f8a0c3c84f89c6b38f717", // Test Utility NFTs
+  [ChainId.MANTLE]: "0x21b276de139ce8c75a7b4f750328dbf356195b49",
+  [ChainId.MANTLE_TESTNET]: "0x081d8db959b655a41948dfd623b7174c26f7a807", // Test Utility NFTs
 };
 
 const STLOSTOKEN_ADDRESS = {
